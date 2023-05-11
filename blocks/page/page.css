@@ -1,0 +1,9 @@
+.page {
+    background-color: #2A2C2F;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 1024px;
+    margin: 0 auto;
+}

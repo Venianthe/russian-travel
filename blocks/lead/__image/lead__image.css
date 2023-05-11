@@ -1,0 +1,9 @@
+.lead__image {
+    background-image: url(../../../images/lead-polka.jpg);
+    width: 928px;
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 8px;
+}
