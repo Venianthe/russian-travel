@@ -7,6 +7,6 @@
   margin-right: 18px;
 }
 
-.link:end {
+.link:last-child {
   margin: 0;
 }

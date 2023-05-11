@@ -8,6 +8,6 @@
     color: white;
 }
 
-.footer__link:end {
+.footer__link:last-child {
     margin-right: 0;
 }
